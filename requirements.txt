@@ -1,5 +1,5 @@
 tensorflow==1.14.0
-numpy==1.17.0
+numpy==1.22.0
 Pillow==5.4.1
 Keras==2.2.4
 bs4==0.0.1
